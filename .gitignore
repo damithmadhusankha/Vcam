@@ -93,3 +93,4 @@ lint/tmp/
 gradle
 gradle.properties
 local.properties
+.env
